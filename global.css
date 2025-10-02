@@ -6,4 +6,19 @@
     box-sizing: border-box;
 }
 
+.container{
+    width: 100%;
+    position: fixed;
+}
+
+.header{
+
+    color: #000;
+    font-family: Assistant;
+    font-size: 78px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 84px; /* 107.692% */
+}
+
  
